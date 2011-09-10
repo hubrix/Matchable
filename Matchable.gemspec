@@ -8,7 +8,6 @@ Gem::Specification.new do |s|
   s.authors = ["Mark Friedgan"]
   s.date = %q{2009-05-11}
   s.default_executable = %q{}
-  s.email = %q{mark@cashnetusa.com}
   s.executables = []
   s.files = [
     "Rakefile",
